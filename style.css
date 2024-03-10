@@ -7,6 +7,9 @@ body{
 h1{
     font-size: 40px;
 }
+p{
+    color: rgba(0, 0, 0, 0.544);
+}
 .orange-color{
     color: orange;
 }
@@ -60,4 +63,7 @@ h1{
     border-left: 5px solid;
     border-image: linear-gradient(rgb(156, 51, 35), rgb(19, 233, 65));
     border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
